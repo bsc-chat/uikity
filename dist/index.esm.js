@@ -491,18 +491,8 @@ var Icon$w = function (props) {
 };
 
 var Icon$x = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React.createElement("circle", { cx: "45", cy: "45", r: "45", fill: "#cccccc" }),
-        React.createElement("path", { d: "M67.48,77.4a40,40,0,0,1-56-1l-1.1-1.17A40,40,0,0,1,12.5,19.3C27.16,5.42,80,1.6,88.77,1.08L90,1s0,.45-.14,1.25C88.85,11,82.15,63.51,67.48,77.4Z", transform: "translate(0 -1)", fill: "#36b397" }),
-        React.createElement("path", { d: "M89.84,2.29,3,84.47,1.9,83.29,88.73,1.11,90,1S90,1.45,89.84,2.29Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M53.91,33.18c-.8,1.85-1.64,3.29-1.88,3.19s.24-1.7,1-3.55l7.7-17.88c.8-1.85,1.64-3.29,1.88-3.19s-.24,1.7-1,3.55Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M41.7,44.73c-.8,1.86-1.64,3.29-1.87,3.18s.23-1.69,1-3.54L52.65,17c.79-1.85,1.64-3.28,1.87-3.19s-.23,1.71-1,3.56Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M29.5,56.29c-.8,1.85-1.65,3.28-1.87,3.18s.22-1.7,1-3.54L45,18c.81-1.85,1.64-3.29,1.87-3.18s-.23,1.7-1,3.55Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M17.29,67.84c-.8,1.85-1.64,3.28-1.87,3.19s.23-1.7,1-3.55l19.2-44.56c.8-1.86,1.64-3.29,1.87-3.18s-.23,1.69-1,3.54Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M55.89,35.28C54,36,52.53,36.75,52.62,37s1.71-.13,3.6-.83L74.5,29.43c1.89-.69,3.36-1.46,3.27-1.69s-1.7.14-3.59.83Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M43.7,46.83c-1.9.7-3.37,1.46-3.29,1.7s1.7-.14,3.6-.84L72,37.43c1.89-.69,3.37-1.46,3.28-1.69s-1.71.13-3.61.83Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M31.49,58.39c-1.9.69-3.37,1.46-3.29,1.69s1.72-.14,3.6-.83L70.57,45c1.88-.69,3.37-1.45,3.28-1.69s-1.71.14-3.6.83Z", transform: "translate(0 -1)", fill: "#125f4f" }),
-        React.createElement("path", { d: "M19.29,69.94c-1.9.69-3.38,1.46-3.29,1.7s1.7-.14,3.59-.84L65.14,54.07c1.89-.69,3.37-1.45,3.28-1.68s-1.7.13-3.6.83Z", transform: "translate(0 -1)", fill: "#125f4f" })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
+        React__default['default'].createElement("image", { width: 90, height: 90, href: "/images/9.png" })));
 };
 
 var Icon$y = function (props) {
@@ -1285,29 +1275,8 @@ var Progress = function (_a) {
 };
 
 var Icon$J = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 256 256" }, props),
-        React.createElement("path", { d: "M136,88.35A6.7,6.7,0,0,1,134.42,81a29.56,29.56,0,0,0,2.09-11V44.51a29.7,29.7,0,0,0-29.7-29.69H63.43a29.7,29.7,0,0,0-29.7,29.69V70a29.56,29.56,0,0,0,2.09,11,6.69,6.69,0,0,1,.34,3.88L33.69,100a322.11,322.11,0,0,0-4.19,51.8v14.25A86.47,86.47,0,0,0,116,252.55h7.24A18.59,18.59,0,0,0,141.8,234V160A444.55,444.55,0,0,0,136,88.35Z", transform: "translate(-11.86 -10)", fill: "#d56799" }),
-        React.createElement("path", { d: "M24.3,52.25l20,9.83L64,22.12,44,12.29A22.28,22.28,0,0,0,14.15,22.44h0A22.27,22.27,0,0,0,24.3,52.25Z", transform: "translate(-11.86 -10)", fill: "#d56799" }),
-        React.createElement("path", { d: "M142.1,52.25l-20,9.83-19.67-40,20-9.83a22.27,22.27,0,0,1,29.81,10.15h0A22.27,22.27,0,0,1,142.1,52.25Z", transform: "translate(-11.86 -10)", fill: "#d56799" }),
-        React.createElement("path", { d: "M27,47a15.58,15.58,0,0,1,12-28.63,36.54,36.54,0,0,0-12,27Z", transform: "translate(-11.86 -10)", fill: "#f4accd" }),
-        React.createElement("path", { d: "M143.19,44.25a36.52,36.52,0,0,0-12.83-26.58,14.87,14.87,0,0,1,1.89-.11,15.59,15.59,0,0,1,10.94,26.69Z", transform: "translate(-11.86 -10)", fill: "#f4accd" }),
-        React.createElement("path", { d: "M105.47,50.29s6.07-5.93,11.2,0", transform: "translate(-11.86 -10)", fill: "none", stroke: "#4a4138", "stroke-linecap": "round", "stroke-miterlimit": "10", "stroke-width": "0.71" }),
-        React.createElement("path", { d: "M85.25,85.44H82.87A13.25,13.25,0,0,1,69.62,72.19h0A13.25,13.25,0,0,1,82.87,59h2.38A13.24,13.24,0,0,1,98.49,72.19h0A13.25,13.25,0,0,1,85.25,85.44Z", transform: "translate(-11.86 -10)", fill: "#fffffe" }),
-        React.createElement("path", { d: "M84.69,78.55H83.43A10.42,10.42,0,0,1,73,67.78l.63-18.37A10.4,10.4,0,0,1,84.06,39.35h0A10.41,10.41,0,0,1,94.47,49.41l.63,18.37A10.42,10.42,0,0,1,84.69,78.55Z", transform: "translate(-11.86 -10)", fill: "#4a4138" }),
-        React.createElement("path", { d: "M89.65,79.79s-6.06,5.93-11.19,0", transform: "translate(-11.86 -10)", fill: "none", stroke: "#4a4138", "stroke-linecap": "round", "stroke-miterlimit": "10", "stroke-width": "0.71" }),
-        React.createElement("path", { d: "M141.83,105a5.85,5.85,0,0,0,1.37-6.42A25.77,25.77,0,0,1,141.38,89V66.75a25.93,25.93,0,0,1,25.93-25.92h37.86A25.93,25.93,0,0,1,231.1,66.75V89a25.78,25.78,0,0,1-1.83,9.56A6,6,0,0,0,229,102l2.16,13.23a281.84,281.84,0,0,1,3.66,45.22v12.43a75.48,75.48,0,0,1-75.48,75.48H153a16.22,16.22,0,0,1-16.23-16.22V167.57A388,388,0,0,1,141.83,105Z", transform: "translate(-11.86 -10)", fill: "#fffffe" }),
-        React.createElement("path", { d: "M239.32,73.5l-17.44,8.59L204.72,47.21l17.44-8.59a19.44,19.44,0,0,1,26,8.86h0A19.43,19.43,0,0,1,239.32,73.5Z", transform: "translate(-11.86 -10)", fill: "#fffffe" }),
-        React.createElement("path", { d: "M136.5,73.5l17.44,8.59L171.1,47.21l-17.44-8.59a19.44,19.44,0,0,0-26,8.86h0A19.43,19.43,0,0,0,136.5,73.5Z", transform: "translate(-11.86 -10)", fill: "#fffffe" }),
-        React.createElement("path", { d: "M236.94,68.91a13.59,13.59,0,0,0-6.21-25.69,13.27,13.27,0,0,0-4.3.7A31.91,31.91,0,0,1,236.94,67.5Z", transform: "translate(-11.86 -10)", fill: "#d56799" }),
-        React.createElement("path", { d: "M135.55,66.52a31.84,31.84,0,0,1,11.19-23.2,12.78,12.78,0,0,0-1.64-.1,13.61,13.61,0,0,0-9.55,23.3Z", transform: "translate(-11.86 -10)", fill: "#d56799" }),
-        React.createElement("path", { d: "M216.55,71.79s-5.29-5.18-9.77,0", transform: "translate(-11.86 -10)", fill: "none", stroke: "#4a4138", "stroke-linecap": "round", "stroke-miterlimit": "10", "stroke-width": "0.62" }),
-        React.createElement("path", { d: "M170.44,77.77s-4.92-4.8-9.07,0", transform: "translate(-11.86 -10)", fill: "none", stroke: "#4a4138", "stroke-linecap": "round", "stroke-miterlimit": "10", "stroke-width": "0.58" }),
-        React.createElement("path", { d: "M186.12,102.47h2.08a11.56,11.56,0,0,0,11.56-11.56h0A11.55,11.55,0,0,0,188.2,79.35h-2.08a11.56,11.56,0,0,0-11.56,11.56h0A11.57,11.57,0,0,0,186.12,102.47Z", transform: "translate(-11.86 -10)", fill: "#d0ccc7" }),
-        React.createElement("path", { d: "M186.61,92.59h1.1a9.1,9.1,0,0,0,9.09-9.4l-.55-16a9.09,9.09,0,0,0-9.09-8.78h0a9.08,9.08,0,0,0-9.08,8.78l-.55,16A9.08,9.08,0,0,0,186.61,92.59Z", transform: "translate(-11.86 -10)", fill: "#4a4138" }),
-        React.createElement("path", { d: "M182.28,93.67s5.29,5.18,9.77,0", transform: "translate(-11.86 -10)", fill: "none", stroke: "#4a4138", "stroke-linecap": "round", "stroke-miterlimit": "10", "stroke-width": "0.62" }),
-        React.createElement("path", { d: "M129.36,151H208a3.7,3.7,0,0,0,3.7-3.7V130.06a3.7,3.7,0,0,0-3.7-3.7H112.09a3.7,3.7,0,0,0-3.7,3.7h0A21,21,0,0,0,129.36,151Z", transform: "translate(-11.86 -10)", fill: "#fffffe" }),
-        React.createElement("path", { d: "M150.28,126.93H60.22A4.23,4.23,0,0,1,56,122.7V102.92a4.23,4.23,0,0,1,4.23-4.24H170.06a4.24,4.24,0,0,1,4.24,4.24h0A24,24,0,0,1,150.28,126.93Z", transform: "translate(-11.86 -10)", fill: "#d56799" }),
-        React.createElement("path", { d: "M50.39,50.29s6.07-5.93,11.19,0", transform: "translate(-11.86 -10)", fill: "none", stroke: "#4a4138", "stroke-linecap": "round", "stroke-miterlimit": "10", "stroke-width": "0.71" })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
+        React__default['default'].createElement("image", { width: 90, height: 90, href: "/images/9.png" })));
 };
 
 var Icon$K = function (props) {
