@@ -15,6 +15,13 @@ const float = keyframes`
 		transform: translatey(0px);
 	}
 `;
+const SpinnerIcon: React.FC<SvgProps> = (props) => {
+  return (
+    <Svg viewBox="0 0 96 96" {...props}>
+      <image width="96" height="96" href="/images/9.png"/>
+    </Svg>
+  );
+};
 
 const Container = styled.div`
   position: relative;
