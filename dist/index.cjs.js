@@ -2399,18 +2399,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/koaladefichat",
+                href: "https://t.me/AztecSwapChat",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/koaladefi",
+                href: "https://t.me/AztecSwapAnn",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/KoalaDefi",
+        href: "https://twitter.com/AztecSwap",
     },
 ];
 var MENU_HEIGHT = 64;
